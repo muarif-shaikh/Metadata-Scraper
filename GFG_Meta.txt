@@ -1,0 +1,9 @@
+Meta data of geeksforgeeks.org
+
+Title : GeeksforGeeks | A computer science portal for geeks
+
+Description : A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+
+Keywords : Data Structures, Algorithms, Python, Java, C, C++, JavaScript, Android Development, SQL, Data Science, Machine Learning, PHP, Web Development, System Design, Tutorial, Technical Blogs, Interview Experience, Interview Preparation, Programming, Competitive Programming, Jobs, Coding Contests, GATE CSE, HTML, CSS, React, NodeJS, Placement, Aptitude, Quiz, Computer Science, Programming Examples, GeeksforGeeks Courses, Puzzles, SSC, Banking, UPSC, Commerce, Finance, CBSE, School, k12, General Knowledge, News, Mathematics, Exams
+
+Preprocessed Content : geeksforgeek|computsciencportalgeekskipcontentcoursesdsadevelopmentcodeveryoneforworkprofessionalsinterview101:dsa&systemdesigndatascienctrainprogramjavabackenddevelop(live)devopengin(live)softwartest
